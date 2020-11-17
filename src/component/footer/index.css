@@ -1,0 +1,14 @@
+.footer{
+    display: flex;
+    text-align: center;
+    height: 50px;
+    position: fixed;
+    justify-content: space-between;
+    bottom: 0;
+    left: 0;
+    width: 375px;
+    list-style: none;
+}
+.footer li{
+    flex:1
+}
